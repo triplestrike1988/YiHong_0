@@ -52,7 +52,7 @@ header{
 
 .inner_wrap{
     margin: 12vw auto;
-    position: relative;
+    position: fixed;
     text-align: center;
     font-size: 2vw;
             max-width: 60vw;
@@ -64,7 +64,9 @@ header{
     width: ;
     font-size:1vw
 }
+
 .img_wrap{
+    
     display: inline-block;
     width: 15vw;
     height: 15vw;
