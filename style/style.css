@@ -13,7 +13,7 @@ body{
 .headWrap{
     position: fixed;
         top:5vw;
-    background-color: #fff;
+/*    background-color: #fff;*/
     
         
 }
@@ -68,8 +68,7 @@ header{
     display: inline-block;
     width: 15vw;
     height: 15vw;
-/*    overflow: hidden;*/
-    margin: 1.2vw;
+    margin: 3vw 1vw;
     background-color: #b2b2b2;
     vertical-align: top;
 }
