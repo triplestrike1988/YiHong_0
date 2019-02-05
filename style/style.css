@@ -8,29 +8,29 @@ body{
     margin:0 auto;
     width: 100%;
     height: 100%;
-    background-color: #afa8a8;
+    background-color: #c3c3c3;
 }
 .headWrap{
-    display:inline-block;
+    position: fixed;
+        top:5vw;
+    background-color: #fff;
     
+        
 }
 a:link{color:#000}
 a:visited{color:#000}
 
 header{
-    position:fixed;
-        top:5vw;
-        left:0vw;
+    float:left;
     width: 15vw;
     height: 20%;
-    background-color: #afa8a8;
     font-size:1.5vw;
     font-weight:900;
     text-align: center;
     margin: 0vw 3vw;
     line-height: 4vw;
 }
-#capline{
+#home{
     margin:auto;
     width:80%;
     height: 0.4vw;
@@ -38,7 +38,6 @@ header{
 }
 .menu{
     position:fixed;
-        top:5vw;
         right:10vw;
 }
 .menu ul{
@@ -48,7 +47,7 @@ header{
 .menu li{
         display: inline-block;
         margin:1vw;
-        font-size:0.8vw;
+        font-size:1.2vw;
 }
 
 .inner_wrap{
@@ -57,7 +56,9 @@ header{
     text-align: center;
     font-size: 2vw;
             max-width: 60vw;
+            min-height:100px;
     vertical-align: top;
+    background-color: #fff;
 }
 .title{
     height:12px ;
