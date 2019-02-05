@@ -58,18 +58,18 @@ header{
             max-width: 60vw;
             min-height:100px;
     vertical-align: top;
-    background-color: #fff;
 }
 .title{
-    height:12px ;
+    height:1.5vw ;
     width: ;
-    font-size:1vw}
+    font-size:1vw
+}
 .img_wrap{
     display: inline-block;
     width: 15vw;
     height: 15vw;
 /*    overflow: hidden;*/
-    margin: 1vw;
+    margin: 1.2vw;
     background-color: #b2b2b2;
     vertical-align: top;
 }
