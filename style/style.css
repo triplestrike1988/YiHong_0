@@ -52,7 +52,7 @@ header{
 }
 
 .inner_wrap{
-    margin: 0vw auto;
+/*    margin: 0vw auto;*/
     position: fixed;
     text-align: center;
     font-size: 2vw;
