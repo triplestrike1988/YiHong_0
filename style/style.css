@@ -51,10 +51,10 @@ header{
 }
 
 .inner_wrap{
-    margin:10% auto;
+    margin:30% auto;
     float: inherit;
     width: 50%;
-    height: 90%;
+    height: 70%;
 /*    background-color: #fff;*/
 }
 .title{font-size:1vw}
