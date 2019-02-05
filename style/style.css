@@ -14,8 +14,8 @@ body{
     display:inline-block;
     
 }
-a:link{color:#ddd}
-a:visited{color:#ddd}
+a:link{color:#000}
+a:visited{color:#000}
 
 header{
     position:fixed;
