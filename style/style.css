@@ -62,7 +62,7 @@ header{
     display: inline-block;
     width: 15vw;
     height: 15vw;
-    overflow: hidden;
+/*    overflow: hidden;*/
     margin: 1vw;
     background-color: #b2b2b2;
 }
